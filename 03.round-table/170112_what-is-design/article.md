@@ -1,18 +1,39 @@
 ---
-title: What is design?
+title: Upcoming: Concerns of creatives
+date: 25-03-2017 #d-m-y
 
 ---
 
-#### Event about the glorious role of design
+## The concerns of creatives
 
+date: end March
 
-Bla bla Als Netzwerk schaffen wir daher ein entsprechendes Angebot, welches den Designplatz Schweiz thematisiert und die Diskussion über dessen aktuelles sowie zukünftiges Potenzial sucht, aber auch Problematiken nicht scheut. Wir finden es wichtig, dass sich gerade heranwachsende Designer für ihren Standort einsetzen und aktiv zur Schärfung und Weiterentwicklung des Designbegriffs beitragen. Das heisst, gemeinsam nach Erfolgsrezepten zu suchen, wonach in Zukunft gekocht werden kann. Die drei Kernthemen «zirkuläre Kreisläufe», «offene Kommunikation», «Wertschätzung von Design» haben wir definiert als aktuelle Bearbeitungsfelder.
+place: konamy Atelier, Sihlquai 125, 8005 Zürich
 
-Wir möchten ein Netzwerk sein, das allen offen steht. Es freut uns am meisten, wenn jemand auch aktiv teilnehmen will. Das kann heissen, Texte zu schreiben, Links zusammenzutragen oder Veranstaltungen zu organisieren. Wir sind aber auch offen für ganz eigene Ideen.
+At this intimate event, we will discuss the most burning concerns of creatives in the Zurich Area, to which moneynotlove could contribute. As an outcome, we hope to have a small list of issues. The content of this list is not defined yet, as we want to get input from practitioners in the field. The outcome will be used to define the next event.
 
-<div class="pure-u-1 pure-u-md-1-2">
-This should appear on the left on medium screens
-</div>
-<div class="pure-u-1 pure-u-md-1-2">
-This should appear on the right on medium screens
-</div>
+Maybe the list could include:
+- more extended information regarding
+  - insurance
+  - intellectual property rights
+- peer review of work
+- excursions to manufacturers or studios
+- discussions of the role of design
+- how design contributes to a better world
+- design for government, urban labs
+
+<br/>
+Possible participants:
+- Myriam Marti
+- Andrea Salathe
+- Lorena Linke
+- Marlon Ilg
+- Sebastian Marbacher
+- Lisa Ochsenbein
+- Dominik Widmer
+- Oliver Hischier
+- Manu Beffa
+- Rico Pengler
+- Malin Widen
+- Tobias Gutmann
+- Matthias Leutwyler
