@@ -1,10 +1,10 @@
 ---
-title: Upcoming: Concerns of creatives
-date: 25-03-2017 #d-m-y
+title: Second Day
+event-date: 02-01-2017 #d-m-y
 
 ---
 
-## The concerns of creatives
+# Second Day
 
 date: end March
 

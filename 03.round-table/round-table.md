@@ -13,5 +13,3 @@ content:
     limit: 10
     pagination: true
 ---
-
-## Our fabulous collection of articles!

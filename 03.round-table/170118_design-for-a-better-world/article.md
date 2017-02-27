@@ -1,6 +1,6 @@
 ---
 title: Design for a better world
-date: 25-04-2017
+event-date: 25-04-2017
 ---
 
 ## Design for a better world
@@ -17,3 +17,14 @@ Possible participants:
 - HSLU: Dr. Sabine Junginger
 - W.I.R.E. Think Tank: Senem Wicki
 - ZHdK: Master Trends
+- add some freelancers with interesting projects
+- Max Stern?
+
+Possible questions:
+
+- How can designers create value for society?
+- Role of design?
+- Experiences from other countries?
+- Should the swiss government use design?
+- What responsibility do designers have?
+- Is it their job to define sustainability in a product or service?
