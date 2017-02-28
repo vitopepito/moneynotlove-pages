@@ -1,5 +1,5 @@
 ---
-title: Versicherung
+title: Selbstständigkeit
 
 top_header:  
 description:
@@ -12,3 +12,7 @@ content:
     limit: 20
     pagination: true
 ---
+
+# Selbstständigkeit
+
+##### Selbstständig zu arbeiten ist erst einmal unkompliziert. Doch bald sollte man sich als selbstständig Erwerbender anmelden und seine Tätigkeit auf eine solide rechtliche Basis stellen. Hier wird erklärt, wie sich Designer und Künstler als Selbstständige anmelden.

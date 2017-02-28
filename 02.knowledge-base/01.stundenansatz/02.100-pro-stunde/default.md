@@ -1,8 +1,7 @@
 ---
 title: 100.- pro Stunde verlangen
-
 ---
-#### 100.- pro Stunde verlangen?
+
 Bei Aufträgen gibt man die benötigten Stunden an sowie den Stundenansatz. Man muss sich einen wichtigen Unterschied bewusst machen: Was man den Kunden verrechnet, ist nicht was man am Schluss in der Tasche hat!
 
 #### 100.- CHF / H
