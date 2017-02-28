@@ -1,6 +1,7 @@
 ---
 title: Design for a better world
-event-date: 25-04-2017
+event:
+    date: 25-04-2017
 ---
 
 ## Design for a better world

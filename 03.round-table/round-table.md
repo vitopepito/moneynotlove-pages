@@ -8,7 +8,7 @@ description: Creating a socially and environmentally sustainable future.
 content:
     items: @self.children
     order:
-        by: date
+        by: default
         dir: desc
     limit: 10
     pagination: true

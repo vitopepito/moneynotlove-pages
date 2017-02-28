@@ -1,6 +1,7 @@
 ---
 title: New Year
-event-date: 01-01-2017 #d-m-y
+event:
+    date: 01-01-2017 #d-m-y
 
 ---
 

@@ -14,7 +14,7 @@ description: moneynotlove is a platform on its quest to enhance the creative ind
 <section class="row align-center">
   <div class="col-xs-12 col-md-4 square horizontal-center">
     <div class="box-red">
-      <a class="link-box" href="/knowledge-base"><span></span></a>
+      <a class="link-box" href="knowledge-base"><span></span></a>
       <h3>The Creative’s <br />Knowledge Base</h3>
       <p>
         Information for freelancers
@@ -28,7 +28,7 @@ description: moneynotlove is a platform on its quest to enhance the creative ind
   </div>
   <div class="col-xs-12 col-md-4 square horizontal-center">
     <div class="box-green">
-      <a class="link-box" href="/round-table"><span></span></a>
+      <a class="link-box" href="round-table"><span></span></a>
       <h3>The Creative’s <br />Round Table</h3>
       <p>
         Events about the relevance of design
@@ -64,7 +64,7 @@ description: moneynotlove is a platform on its quest to enhance the creative ind
     <h4>Open-source</h4>
   </div>
   <div class="col-xs-12 col-md-8">
-    <p>Du möchtest etwas anfügen, hast eine unbeantwortete Frage oder möchtest sonstwie zu moneynotlove beitragen? Da wir dem open-source Modell folgen, kannst du direkt Einfluss nehmen. Am einfachsten startest du bei unserer <a href="/documentation">Documentation</a>. </p>
+    <p>Du möchtest etwas anfügen, hast eine unbeantwortete Frage oder möchtest sonstwie zu moneynotlove beitragen? Da wir dem open-source Modell folgen, kannst du direkt Einfluss nehmen. Am einfachsten startest du bei unserer <a href="documentation">Documentation</a>. </p>
   </div>
 </section>
 <section class="row">

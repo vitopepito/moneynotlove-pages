@@ -1,6 +1,7 @@
 ---
 title: Second Day
-event-date: 02-01-2017 #d-m-y
+event:
+    date: 02-01-2017 #d-m-y
 
 ---
 
