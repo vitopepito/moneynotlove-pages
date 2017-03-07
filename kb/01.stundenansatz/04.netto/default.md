@@ -17,4 +17,4 @@ __Übrig bleiben euch also 45.-__
 
 Diesen Nettostundenlohn verdient ihr, bei vollständiger Beschäftigung, während ca. 139 Stunden im Monat (Auftragsarbeit). Dabei fallen jedoch auch 34.8 Stunden Akquise und Administration an, welche ihr dem Kunden bereits verrechnet habt. Gute Rechner kommen somit auf einen "theoretischen" Monatslohn von CHF 6255.-
 
-    Manchmal kann man trotz aller Bemühungen keinen so hohen Studenansatz berechnen. Wir empfehlen, dies erstens nicht zu tun, siehe oben. Falls aber wirklich wirklich keine andere Möglichkeit besteht (wir haben es selbst erlebt), kann man Rabatt geben. Zum Beispiel 100.- mit 30% Rabatt = 70.- / h. Somit ist der faire Preis ersichtlich und ihr macht "ein Geschenk".
+_Manchmal kann man trotz aller Bemühungen keinen so hohen Studenansatz berechnen. Wir empfehlen, dies erstens nicht zu tun, siehe oben. Falls aber wirklich wirklich keine andere Möglichkeit besteht (wir haben es selbst erlebt), kann man Rabatt geben. Zum Beispiel 100.- mit 30% Rabatt = 70.- / h. Somit ist der faire Preis ersichtlich und ihr macht "ein Geschenk"._

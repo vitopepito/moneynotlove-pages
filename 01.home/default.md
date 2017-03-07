@@ -13,7 +13,7 @@ description: moneynotlove is a platform on its quest to enhance the creative ind
 
 <section class="row align-center">
   <div class="col-xs-12 col-md-4 square horizontal-center">
-    <div class="box-red">
+    <div class="box-hard">
       <a class="link-box" href="knowledge-base"><span></span></a>
       <h3>The Creative’s <br />Knowledge Base</h3>
       <p>
@@ -27,7 +27,7 @@ description: moneynotlove is a platform on its quest to enhance the creative ind
     </div>
   </div>
   <div class="col-xs-12 col-md-4 square horizontal-center">
-    <div class="box-green">
+    <div class="box-soft">
       <a class="link-box" href="round-table"><span></span></a>
       <h3>The Creative’s <br />Round Table</h3>
       <p>
