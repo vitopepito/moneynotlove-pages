@@ -1,7 +1,10 @@
 ---
-title: Design for a better world
+title: 'Design for a better world'
+published: true
+date: '25-04-2017 20:00'
 event:
-    date: 25-04-2017
+    start: '25-04-2017 20:00'
+    end: '25-04-2017 21:00'
 ---
 
 ## Design for a better world

@@ -1,11 +1,13 @@
 ---
-title: Concerns of creatives
+title: 'The very first official round table'
+published: true
+date: '23-04-2017 20:00'
 event:
-    date: 25-03-2017
-
+    start: '23-04-2017 20:00'
+    end: '23-04-2017 22:00'
 ---
 
-## The concerns of creatives
+## The very first official round table
 
 date: end March
 

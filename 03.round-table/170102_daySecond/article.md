@@ -1,40 +1,16 @@
 ---
-title: Second Day
+title: 'Democratic Design Days'
+published: true
+date: '19-02-2016'
 event:
-    date: 02-01-2017 #d-m-y
-
+    start: '19-02-2016'
+    end: '19-02-2016'
 ---
 
-# Second Day
+# Democratic Design Days
 
-date: end March
+date: 19. Februar 2016
 
-place: konamy Atelier, Sihlquai 125, 8005 Zürich
+place: Villa Tobler, Zürich
 
-At this intimate event, we will discuss the most burning concerns of creatives in the Zurich Area, to which moneynotlove could contribute. As an outcome, we hope to have a small list of issues. The content of this list is not defined yet, as we want to get input from practitioners in the field. The outcome will be used to define the next event.
-
-Maybe the list could include:
-- more extended information regarding
-  - insurance
-  - intellectual property rights
-- peer review of work
-- excursions to manufacturers or studios
-- discussions of the role of design
-- how design contributes to a better world
-- design for government, urban labs
-
-<br/>
-Possible participants:
-- Myriam Marti
-- Andrea Salathe
-- Lorena Linke
-- Marlon Ilg
-- Sebastian Marbacher
-- Lisa Ochsenbein
-- Dominik Widmer
-- Oliver Hischier
-- Manu Beffa
-- Rico Pengler
-- Malin Widen
-- Tobias Gutmann
-- Matthias Leutwyler
+Wir gehen am 19. und 20. Februar 2016 an die DDD. Wer schliesst sich uns an? Am Freitag findet die Keynote im Kunsthaus statt, am Samstag ist ein Workshop zum Thema “What design can do! For refugees” in der Villa Tobler angesagt. Das Programm verspricht ein paar gute Talks am Freitag und ein kurzes aber intensives Eintauchen in die Thematik der Design-Challenge.
