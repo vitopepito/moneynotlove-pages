@@ -2,8 +2,6 @@
 title: About Us
 menu: About Us
 
-top_header: What is this about?
-description: moneynotlove is a platform on its quest to enhance the creative industry.
 ---
 
 <section class="horizontal-center">
@@ -12,30 +10,32 @@ description: moneynotlove is a platform on its quest to enhance the creative ind
 </section>
 
 <section class="row align-center">
-  <div class="col-xs-12 col-md-4 square horizontal-center">
-    <div class="box-hard">
+  <div class="col-xs-10 col-sm-6 col-md-4 block--wrapper">
+    <div class="block__one-by-one"></div>
+    <div class="block__content block__content--flex block--color-hard horizontal-center">
       <a class="link-box" href="knowledge-base"><span></span></a>
       <h3>The Creative’s <br />Knowledge Base</h3>
       <p>
-        Information for freelancers
+        Information for freelancers working in Switzerland, collected by creatives for creatives
       </p>
       <p class="flex-bottom">
         <span style="text-decoration:underline;">
-        discover more
+        let's go
         </span>
       </p>
     </div>
   </div>
-  <div class="col-xs-12 col-md-4 square horizontal-center">
-    <div class="box-soft">
+  <div class="col-xs-10 col-sm-6 col-md-4 block--wrapper">
+    <div class="block__one-by-one"></div>
+    <div class="block__content block__content--flex block--color-soft horizontal-center">
       <a class="link-box" href="round-table"><span></span></a>
       <h3>The Creative’s <br />Round Table</h3>
       <p>
-        Events about the relevance of design
+        Casual monthly events about the wider relevance of design
       </p>
       <p class="flex-bottom">
         <span style="text-decoration:underline;">
-        discover more
+        let's go
         </span>
       </p>
     </div>
