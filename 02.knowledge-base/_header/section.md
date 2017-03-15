@@ -3,7 +3,7 @@ title: Header
 
 ---
 
-<header class="horizontal-center" markdown="1">
+<header class="banner" markdown="1">
 
 ## The Creative's Knowledge Base
 

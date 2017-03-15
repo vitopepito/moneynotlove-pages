@@ -3,7 +3,7 @@ title: 'Democratic Design Days'
 published: true
 date: '19-02-2016'
 event:
-    start: '19-02-2016'
+    start: '19-02-2016 20:00'
     end: '19-02-2016'
 ---
 
