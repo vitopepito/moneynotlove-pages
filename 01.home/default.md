@@ -16,7 +16,7 @@ menu: About Us
       <a class="link-box" href="knowledge-base"><span></span></a>
       <h3>The Creative’s <br />Knowledge Base</h3>
       <p>
-        Information for freelancers working in Switzerland, collected by creatives for creatives
+        Informationen für selbstständige Kreativschaffende in der Schweiz, zusammengetragen von Kreativen für Kreative.
       </p>
       <p class="flex-bottom">
         <span style="text-decoration:underline;">
@@ -31,7 +31,7 @@ menu: About Us
       <a class="link-box" href="round-table"><span></span></a>
       <h3>The Creative’s <br />Round Table</h3>
       <p>
-        Casual monthly events about the wider relevance of design
+        Ungefähr monatliche Events über die grössere Relevanz kreativer Arbeit in der Gesellschaft. Manchmal auch einfach zum Spass.
       </p>
       <p class="flex-bottom">
         <span style="text-decoration:underline;">
@@ -59,13 +59,9 @@ menu: About Us
   </div>
 </section>
 
+<hr>
+
 <section class="row">
-  <div class="col-xs-12 col-md-4">
-    <h4>Open-source</h4>
-  </div>
-  <div class="col-xs-12 col-md-8">
-    <p>Du möchtest etwas anfügen, hast eine unbeantwortete Frage oder möchtest sonstwie zu moneynotlove beitragen? Da wir dem open-source Modell folgen, kannst du direkt Einfluss nehmen. Am einfachsten startest du bei unserer <a href="documentation">Documentation</a>. </p>
-  </div>
 </section>
 <section class="row">
   <div class="col-xs-12 col-md-4">
@@ -93,5 +89,11 @@ menu: About Us
   </div>
   <div class="col-xs-12 col-md-8">
     <p>Unser kleines Team setzt sich selbst aus Kreativen zusammen. Im Moment sind das: Myriam Marti, Andrea Salathe, Nando Schmidlin.  </p>
+  </div>
+  <div class="col-xs-12 col-md-4">
+    <h4>Open-source</h4>
+  </div>
+  <div class="col-xs-12 col-md-8">
+    <p>Du möchtest etwas anfügen, hast eine unbeantwortete Frage oder möchtest sonstwie zu moneynotlove beitragen? Da wir dem open-source Modell folgen, kannst du direkt Einfluss nehmen. Am einfachsten startest du bei unserer <a href="documentation">Documentation</a>. </p>
   </div>
 </section>

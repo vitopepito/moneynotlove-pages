@@ -30,7 +30,7 @@ Creating a socially and environmentally sustainable future.
 
 <br />
 
-##### We have been quiet for a while, but all is new in 2017! Join us for a series of upcoming events
+##### Es war etwas ruhig, aber jetzt wird alles anders. Wir planen eine Serie von kleinen Events!
 
 <br />
 

@@ -5,12 +5,12 @@ title: Header
 
 <br />
 
-# By Creatives For Creatives {.horizontal-center .text-hard}
+# von uns für dich {.horizontal-center .text-hard}
 
 <br />
 
 ##### Du hast nicht das Gesuchte gefunden?
-Wir arbeiten stetig daran, die "Creative's Knowledge Base" zu verbessern. Da alle Informationen Open-Source sind, kannst du Verbesserungsvorschläge direkt in unser [GitHub Repository](https://github.com/vitopepito/moneynotlove-pages) einfliessen lassen. Starte bei unserer [Documentation](/documentation). 
+Wir arbeiten stetig daran, die "Creative's Knowledge Base" zu verbessern. Da alle Informationen Open-Source sind, kannst du Verbesserungsvorschläge direkt in unser [GitHub Repository](https://github.com/vitopepito/moneynotlove-pages) einfliessen lassen. Starte bei unserer [Documentation](/documentation).
 
 Du kannst uns auch ein Email schreiben: chef@moneynotlove.ch; oder einfach am Sihlquai 125 vorbeikommen.
 
