@@ -1,6 +1,6 @@
 ---
 title: 'Design for a better world'
-published: true
+published: false
 date: '25-04-2017 20:00'
 event:
     start: '25-04-2017 20:00'
