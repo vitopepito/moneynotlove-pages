@@ -4,10 +4,10 @@ menu: About Us
 
 ---
 
-<section class="horizontal-center">
-  <h2>Designer wollen eine bessere Welt kreieren. <br />moneynotlove sorgt dafür, dass das auch passiert.</h2>
+<header class="banner horizontal-center">
+  <h2>Eine bessere Welt kreieren. </h2>
   <h2>&nbsp;</h2>
-</section>
+</header>
 
 <section class="row align-center">
   <div class="col-xs-10 col-sm-6 col-md-4 block--wrapper">
@@ -51,11 +51,11 @@ menu: About Us
   </div>
   <div class="col-xs-12 col-md-4">
     <h4>Relevant</h4>
-    <p>Wie sollen Kreative die Verantwortung wahrnehmen, die sie für die Gesellschaft haben? Zusammen diskustieren wir diese Fragen in Zusammenhang mit dem Designplatz Schweiz. </p>
+    <p>Wie sollen Kreative die Verantwortung wahrnehmen, die sie für die Gesellschaft haben? Zusammen diskutieren wir diese Fragen in Zusammenhang mit dem Designplatz Schweiz. </p>
   </div>
   <div class="col-xs-12 col-md-4">
     <h4>Offen</h4>
-    <p>Wir sind eine offene Informationsplatform, zu der jeder beitragen kann und die für jeden frei zur Verfügung steht. </p>
+    <p>Wir sind eine offene Informationsplattform, zu der jeder beitragen kann und die für jeden frei zur Verfügung steht. </p>
   </div>
 </section>
 
@@ -80,7 +80,7 @@ menu: About Us
     <h4>Since 2013</h4>
   </div>
   <div class="col-xs-12 col-md-8">
-    <p>Seit der Gründung 2013 hat moneynotlove mit zahlreichen Kreativen zusammengearbeitet. moneynotlove hat an Ausstellungen im Vitra Design Museum, dem Depot Basel und der Dezajin Gallery Wroclaw teilgenommen und wurde in Hochparterre und Tagesanzeiger erläutert.  </p>
+    <p>Seit der Gründung 2013 hat moneynotlove mit zahlreichen Kreativen zusammengearbeitet. moneynotlove hat an Ausstellungen im Vitra Design Museum, dem Depot Basel und der Dezajin Gallery Wroclaw teilgenommen und wurde im Hochparterre und Tagesanzeiger erläutert.  </p>
   </div>
 </section>
 <section class="row">
@@ -88,12 +88,12 @@ menu: About Us
     <h4>Team</h4>
   </div>
   <div class="col-xs-12 col-md-8">
-    <p>Unser kleines Team setzt sich selbst aus Kreativen zusammen. Im Moment sind das: Myriam Marti, Andrea Salathe, Nando Schmidlin.  </p>
+    <p>Unser kleines Team setzt sich selbst aus Kreativen zusammen. Im Moment sind das: Myriam Marti, Andrea Salathe und Nando Schmidlin.  </p>
   </div>
   <div class="col-xs-12 col-md-4">
     <h4>Open-source</h4>
   </div>
   <div class="col-xs-12 col-md-8">
-    <p>Du möchtest etwas anfügen, hast eine unbeantwortete Frage oder möchtest sonstwie zu moneynotlove beitragen? Da wir dem open-source Modell folgen, kannst du direkt Einfluss nehmen. Am einfachsten startest du bei unserer <a href="documentation">Documentation</a>. </p>
+    <p>Du möchtest etwas anfügen, hast eine unbeantwortete Frage oder möchtest sonst wie zu moneynotlove beitragen? Da wir dem Open-Source Modell folgen, kannst du direkt Einfluss nehmen. Am einfachsten startest du bei unserer <a href="documentation">Documentation</a>. </p>
   </div>
 </section>

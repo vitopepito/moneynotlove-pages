@@ -1,10 +1,10 @@
 ---
 title: 'Democratic Design Days'
 published: true
-date: '19-02-2016'
+date: '19-02-2016 20:00'
 event:
     start: '19-02-2016 20:00'
-    end: '19-02-2016'
+    end: 19-02-2016
 ---
 
 # Democratic Design Days

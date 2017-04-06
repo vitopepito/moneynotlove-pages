@@ -3,9 +3,6 @@ title: Header
 
 ---
 
-<br />
-
-# von uns für dich {.horizontal-center .text-hard}
 
 <br />
 

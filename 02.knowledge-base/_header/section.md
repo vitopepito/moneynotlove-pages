@@ -7,7 +7,7 @@ title: Header
 
 ## The Creative's Knowledge Base
 
-Open-source knowledge for creative freelancers who work in Switzerland.
+Informationen für selbstständige Kreativschaffende in der Schweiz. 
 
 <br />
 
