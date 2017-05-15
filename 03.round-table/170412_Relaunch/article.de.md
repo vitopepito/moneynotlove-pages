@@ -13,6 +13,18 @@ event:
 
 ---
 
+Manifest zum ersten Round Table
+
+Wir wollen
+- früh in Projekte einbezogen werden
+- nur Aufträge annehmen, für die wir die richtigen Kompetenzen haben
+- schlechtbezahlte Aufträge ablehnen
+- in der gewonnenen Zeit Aquise betreiben
+- Design nicht als Kosten, sondern als Investition verkaufen
+- anhand des entstehenden Vorteils offerieren, nicht nach Stunden
+
+---
+
 In den letzten Monaten haben wir das Konzept von moneynotlove überarbeitet und die Website neu aufgelegt.
 
 Das möchten wir mit euch feiern!
@@ -28,4 +40,4 @@ __Wir freuen uns!__
 ---
 
 Wie findest du in unser Atelier?
-Es befindet sich im Sihlquai 125. Nach der Eingangstüre gehst du ein paar Stufen ins Hochparterre. Rechts befindet sich ein langer Gang, und ganz am Ende davon sind wir. 
+Es befindet sich im Sihlquai 125. Nach der Eingangstüre gehst du ein paar Stufen ins Hochparterre. Rechts befindet sich ein langer Gang, und ganz am Ende davon sind wir.
