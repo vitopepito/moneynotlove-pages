@@ -6,6 +6,6 @@ Solange ihr unter 100'000 CHF Umsatz pro Jahr macht, bleibt ihr "unter dem Radar
 
 Es gibt zwei Möglichkeiten: Einerseits könnt ihr eine einfach Liste (Excel) machen. Andererseits könnt ihr auf bestehende Tools zurückgreifen und eine professionelle, automatische doppelte Buchhaltung führen.
 
-1. Führt Einnahmen und Ausgaben in getrennten Spalten auf und Ende Jahr rechnet ihr zusammen. Die dazugehörigen Belege könnt ihr nummerieren oder sonstwie geordnet aufbewahren.
+- Führt Einnahmen und Ausgaben in getrennten Spalten auf und Ende Jahr rechnet ihr zusammen. Die dazugehörigen Belege könnt ihr nummerieren oder sonstwie geordnet aufbewahren.
 
-2. Es gibt unzählige Anbieter von Buchhaltungssoftware. Oftmals ist sie nicht optimal auf Selbstständige zugeschnitten, zu teuer oder zu umständlich. Siehe auch unseren Blog Post Buchhaltung für Selbstständige
+- Es gibt unzählige Anbieter von Buchhaltungssoftware. Oftmals ist sie nicht optimal auf Selbstständige zugeschnitten, zu teuer oder zu umständlich. 

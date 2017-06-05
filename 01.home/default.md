@@ -61,7 +61,28 @@ menu: About Us
 
 <hr>
 
-<section class="row">
+<section class="row align-center">
+  <div class="col-xs-12 col-md-8">
+    <p><strong>Seit 2013 </strong>thematisiert moneynotlove die Arbeit junger Kreativer und Selbstständiger. moneynotlove hat an Ausstellungen im Vitra Design Museum, dem Depot Basel und der Dezajin Gallery Wroclaw teilgenommen und wurde im Hochparterre und Tagesanzeiger erläutert. </p>
+    <p>Die Mitglieder von moneynotlove treffen sich regelmässig auf ein Bier und nutzen eine Slack Group, wo Ankündigungen und spezifische Fragen ausgetauscht werden. </p>
+    <p>Falls du <strong>ein Teil</strong> von moneynotlove werden willst, kannst du über dieses Formular eine Einladung anfordern. </p>
+    <div class="button block--color-hard">
+      <h4><a class="button--link" href="signup">Slack - nice</a></h4>
+    </div>
+    <p>&nbsp;</p>
+    <p>Da wir dem <strong>open-source Modell</strong> folgen, kannst du ganz einfach Änderungen an unserer Website vorschlagen. Starte bei unserer <a href="documentation">Documentation</a>. </p>
+    <div class="button block--color-hard">
+      <h4><a class="button--link" href="documentation">GitHub - woah</a></h4>
+    </div>
+    <p>&nbsp;</p>
+    <p>Für alles andere, schreib <strong>dem Chef</strong> ein Email.</p>
+    <div class="button block--color-hard">
+      <h4><a class="button--link" href="mailto:chef@moneynotlove.ch">Email - cool</a></h4>
+    </div>
+  </div>
+</section>
+
+<!-- <section class="row">
 </section>
 <section class="row">
   <div class="col-xs-12 col-md-4">
@@ -96,4 +117,4 @@ menu: About Us
   <div class="col-xs-12 col-md-8">
     <p>Du möchtest etwas anfügen, hast eine unbeantwortete Frage oder möchtest sonst wie zu moneynotlove beitragen? Da wir dem Open-Source Modell folgen, kannst du direkt Einfluss nehmen. Am einfachsten startest du bei unserer <a href="documentation">Documentation</a>. </p>
   </div>
-</section>
+</section> -->

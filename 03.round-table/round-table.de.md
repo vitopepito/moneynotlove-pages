@@ -26,8 +26,4 @@ Events über die grössere Relevanz kreativer Arbeit in der Gesellschaft.
 
 <br />
 
-##### Es war lange Zeit etwas ruhig, aber jetzt wird alles anders. Wir planen eine Serie von kleinen Events!
-
-<br />
-
 </header>
