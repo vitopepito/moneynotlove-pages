@@ -1,5 +1,5 @@
 ---
-title: 'Der nächste RoundTable'
+title: 'Round Table: Akquise, Slack'
 published: true
 date: '01-06-2017 18:00'
 event:
@@ -7,7 +7,7 @@ event:
     end: '01-06-2017 22:00'
 ---
 
-# Der nächste Round Table
+# Round Table: Akquise, Slack
 
 ###### 1. Juni um 18.00, konamy Atelier, Parterre, Sihlquai 125, 8005 Zürich {.text-hard}
 

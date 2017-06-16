@@ -1,5 +1,5 @@
 ---
-title: 'Der erste Round-Table und Website launch'
+title: 'Round Table: Website relaunch, Manifest'
 published: true
 date: '12-04-2017 20:00'
 event:
@@ -19,7 +19,7 @@ Wir wollen
 - früh in Projekte einbezogen werden
 - nur Aufträge annehmen, für die wir die richtigen Kompetenzen haben
 - schlechtbezahlte Aufträge ablehnen
-- in der gewonnenen Zeit Aquise betreiben
+- in der gewonnenen Zeit Akquise betreiben
 - Design nicht als Kosten, sondern als Investition verkaufen
 - anhand des entstehenden Vorteils offerieren, nicht nach Stunden
 
