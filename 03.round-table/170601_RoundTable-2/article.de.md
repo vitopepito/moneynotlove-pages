@@ -15,7 +15,7 @@ event:
 
 Das nächste Mal analog Biertrinken findet statt mit dem Thema __„Was Design alles kann“__.
 
-Design ist ein weiter Begriff und demzufolge arbeiten Designer in einer Breite von Feldern. Gleichzeitig haben Designer einen Einfluss darauf, wie Menschen ihren Alltag gestalten. Bei diesem Round Table diskutieren wir, wie Designer die Verantwortung für den Alltag anderer Menschen wahrnehmen und wie sich deshalb die Rolle von Design in Zukunft verändern wird. 
+Bisher haben wir den Alltag der kreativen Arbeit diskutiert. Diesmal wollen wir von dir Wissen, wie du dir die Zukunft vorstellst und welche Rolle Kreative darin einnehmen sollen. Wir freuen uns auf eine spannende Diskussion!
 
 
 ### Interessiert?

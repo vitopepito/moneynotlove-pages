@@ -1,7 +1,6 @@
 ---
-title: About Us
-menu: About Us
-
+title: 'About Us'
+menu: 'About Us'
 ---
 
 <header class="banner horizontal-center">
@@ -67,17 +66,17 @@ menu: About Us
     <p>Die Mitglieder von moneynotlove treffen sich regelmässig auf ein Bier und nutzen eine Slack Group, wo Ankündigungen und spezifische Fragen ausgetauscht werden. </p>
     <p>Falls du <strong>ein Teil</strong> von moneynotlove werden willst, kannst du über dieses Formular eine Einladung anfordern. </p>
     <div class="button block--color-hard">
-      <h4><a class="button--link" href="signup">Slack - nice</a></h4>
+      <h4><a class="button--link" href="signup">Ich will Slack!</a></h4>
     </div>
     <p>&nbsp;</p>
     <p>Da wir dem <strong>open-source Modell</strong> folgen, kannst du ganz einfach Änderungen an unserer Website vorschlagen. Starte bei unserer <a href="documentation">Documentation</a>. </p>
     <div class="button block--color-hard">
-      <h4><a class="button--link" href="documentation">GitHub - woah</a></h4>
+      <h4><a class="button--link" href="documentation">Ich verändere was!</a></h4>
     </div>
     <p>&nbsp;</p>
     <p>Für alles andere, schreib <strong>dem Chef</strong> ein Email.</p>
     <div class="button block--color-hard">
-      <h4><a class="button--link" href="mailto:chef@moneynotlove.ch">Email - cool</a></h4>
+      <h4><a class="button--link" href="mailto:chef@moneynotlove.ch">Ich schreibe ein mail!</a></h4>
     </div>
   </div>
 </section>
