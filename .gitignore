@@ -1,4 +1,2 @@
 .log
-_gsdata_/
-._gs
-.gsl
+_gsdata_/**
