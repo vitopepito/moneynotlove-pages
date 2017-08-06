@@ -1,0 +1,16 @@
+---
+title: Versicherung
+
+top_header:  
+description:
+
+content:
+    items: @self.children
+    order:
+        by: default
+        dir: asc
+    limit: 20
+    pagination: true
+---
+
+# Versicherung

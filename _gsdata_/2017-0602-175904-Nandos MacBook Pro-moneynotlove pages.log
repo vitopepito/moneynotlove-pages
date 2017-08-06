@@ -1,0 +1,14 @@
+2017-06-02 17:59:04: -- Analysis Started by User Command
+2017-06-02 17:59:05: /02.knowledge-base/kb/03.buchhaltung/03.Buchführung/default.md: Sync will delete Folder /02.knowledge-base/kb/03.buchhaltung/03.Buchführung on Right because it is deleted on Left, File /02.knowledge-base/kb/03.buchhaltung/03.Buchführung/default.md changed on Right (Vertical Conflict)
+2017-06-02 17:59:05: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2017-06-02 17:59:05: Changes: 4, Conflicts: 2, CopyTime: 0, FixState: 0, Errors: 0, All: 87
+2017-06-02 17:59:05: Left to Right: Copy File: 2 
+2017-06-02 17:59:05: -- Analysis Complete. Time 00:00:01, Speed: 87 files/s
+2017-06-02 17:59:05: 
+2017-06-02 17:59:14: == Sync Started by User Command
+2017-06-02 17:59:14: Create Folder 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/03.buchhaltung/03.Buchfuehrung'
+2017-06-02 17:59:14: Copy New '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/02.knowledge-base/kb/03.buchhaltung/03.Buchfuehrung/default.md' -> 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/03.buchhaltung/03.Buchfuehrung/default.md'
+2017-06-02 17:59:14: /02.knowledge-base/kb/03.buchhaltung/03.Buchführung/default.md: unresolved conflict results in No Copy
+2017-06-02 17:59:14: /02.knowledge-base/kb/03.buchhaltung/03.Buchführung: unresolved conflict results in No Copy
+2017-06-02 17:59:14: == Sync Complete. Time: 00:00:00, Speed: 0.0/s, OK: 2, Errors: 0, Conflicts: 2
+2017-06-02 17:59:14: 
