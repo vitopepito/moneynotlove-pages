@@ -1,11 +1,9 @@
 ---
 title: Selbstständigkeit
-
-top_header:  
-description:
-
+top_header: null
+description: null
 content:
-    items: @self.children
+    items: '@self.children'
     order:
         by: default
         dir: asc
