@@ -1,0 +1,10 @@
+2017-06-16 17:06:48: -- Analysis Started by User Command
+2017-06-16 17:06:49: Changes: 2, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 92
+2017-06-16 17:06:49: Right to Left: Copy File: 2 
+2017-06-16 17:06:49: -- Analysis Complete. Time 00:00:01, Speed: 90 files/s
+2017-06-16 17:06:49: 
+2017-06-16 17:06:53: == Sync Started by User Command
+2017-06-16 17:06:53: Copy Over 'ftp://80.74.135.111/moneynotlove.ch/user/pages/03.round-table/170412_Relaunch/article.de.md' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170412_Relaunch/article.de.md'
+2017-06-16 17:06:53: Copy Over 'ftp://80.74.135.111/moneynotlove.ch/user/pages/03.round-table/170601_RoundTable/article.de.md' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170601_RoundTable/article.de.md'
+2017-06-16 17:06:53: == Sync Complete. Time: 00:00:00, Speed: 0.0/s, OK: 2, Errors: 0
+2017-06-16 17:06:53: 

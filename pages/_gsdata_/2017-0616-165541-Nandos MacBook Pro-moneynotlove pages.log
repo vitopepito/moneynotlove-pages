@@ -1,0 +1,49 @@
+2017-06-16 16:55:41: -- Analysis Started by User Command
+2017-06-16 16:55:42: Changes: 3, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 92
+2017-06-16 16:55:42: Right to Left: Copy File: 3 
+2017-06-16 16:55:42: -- Analysis Complete. Time 00:00:01, Speed: 90 files/s
+2017-06-16 16:55:42: 
+2017-06-16 16:56:31: == Sync Started by User Command
+2017-06-16 16:56:31: Create Folder '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170601_RoundTable-2'
+2017-06-16 16:56:31: Copy New 'ftp://80.74.135.111/moneynotlove.ch/user/pages/03.round-table/170601_RoundTable-2/article.de.md' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170601_RoundTable-2/article.de.md'
+2017-06-16 16:56:31: Copy New 'ftp://80.74.135.111/moneynotlove.ch/user/pages/03.round-table/170601_RoundTable-2/moneynotlove-illu.jpg' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170601_RoundTable-2/moneynotlove-illu.jpg'
+2017-06-16 16:56:31: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/03.round-table/160714_forum-for-an-attitude/article.de.md
+2017-06-16 16:56:31: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/03.round-table/170412_Relaunch/article.de.md
+2017-06-16 16:56:31: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/03.buchhaltung/03.Buchführung/default.md
+2017-06-16 16:56:31: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/03.round-table/170601_RoundTable/article.de.md
+2017-06-16 16:56:31: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/03.round-table/160714_forum-for-an-attitude/Depot Basel - Forum for an Attitude - Exhibition View.jpg
+2017-06-16 16:56:31: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/_section/section.md
+2017-06-16 16:56:31: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/01.stundenansatz/03.abzuege/default.md
+2017-06-16 16:56:31: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/01.stundenansatz/04.netto/default.md
+2017-06-16 16:56:31: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/04.selbststaendigkeit/02.anmeldung/default.md
+2017-06-16 16:56:31: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/03.round-table/160208_Cern/article.md
+2017-06-16 16:56:31: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/_header/section.md
+2017-06-16 16:56:31: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/03.round-table/160208_Cern/C4y9kR-WQAUFqQG.jpg
+2017-06-16 16:56:31: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/03.round-table/160219_DDD/ikea1.jpg
+2017-06-16 16:56:31: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/01.home/default.md
+2017-06-16 16:56:31: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/_topics/knowledge-base-topics.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/02.versicherung/02.Unfallversicherung/default.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/04.selbststaendigkeit/topics.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/images/logo.png
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/03.buchhaltung/03.Buchfuehrung/default.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/03.round-table/170601_RoundTable/moneynotlove-illu.jpg
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/03.buchhaltung/04.Steuererklaerung/default.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/03.round-table/170508_beizerei-traber/article.de.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/02.versicherung/01.AHV/default.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/03.buchhaltung/01.Rechnung/default.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/modular.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/04.selbststaendigkeit/03.gesellschaftsvertrag/default.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/03.round-table/160219_DDD/article.de.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/03.round-table/round-table.de.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/cheatsheet/default.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/02.versicherung/topics.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/03.buchhaltung/topics.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/documentation/default.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/01.stundenansatz/02.100-pro-stunde/default.md
+2017-06-16 16:56:32: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/01.stundenansatz/05.vergleich/default.md
+2017-06-16 16:56:33: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/02.versicherung/03.Erwerbsausfallentschaedigung/default.md
+2017-06-16 16:56:33: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/02.versicherung/04.BVG/default.md
+2017-06-16 16:56:33: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/02.knowledge-base/kb/03.buchhaltung/02.Konto/default.md
+2017-06-16 16:56:33: Deleted Recycled: ftp://80.74.135.111/moneynotlove.ch/user/pages/_gsdata_/_saved_/03.round-table/170518_design-for-a-better-world/article.md
+2017-06-16 16:56:33: == Sync Complete. Time: 00:00:03, Speed: 227.7 KB/s, OK: 3, Errors: 0
+2017-06-16 16:56:33: 

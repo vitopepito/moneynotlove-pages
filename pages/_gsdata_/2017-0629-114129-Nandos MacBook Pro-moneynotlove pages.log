@@ -1,0 +1,20 @@
+2017-06-29 11:41:29: -- Analysis Started by User Command
+2017-06-29 11:41:30: Changes: 12, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 95
+2017-06-29 11:41:30: Right to Left: Copy File: 6 Delete File: 6 
+2017-06-29 11:41:30: -- Analysis Complete. Time 00:00:01, Speed: 93 files/s
+2017-06-29 11:41:30: 
+2017-06-29 11:42:33: == Sync Started by User Command
+2017-06-29 11:42:33: Delete File '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/01.home/default.md'
+2017-06-29 11:42:33: Delete File '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170508_beizerei-traber/article.de.md'
+2017-06-29 11:42:33: Delete Folder '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170508_beizerei-traber'
+2017-06-29 11:42:33: Delete File '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170518_design-for-a-better-world/article.md'
+2017-06-29 11:42:33: Delete Folder '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170518_design-for-a-better-world'
+2017-06-29 11:42:33: Delete File '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170601_RoundTable/moneynotlove-illu.jpg'
+2017-06-29 11:42:33: Copy New 'ftp://80.74.135.111/moneynotlove.ch/user/pages/01.home/default.de.md' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/01.home/default.de.md'
+2017-06-29 11:42:33: Copy Over 'ftp://80.74.135.111/moneynotlove.ch/user/pages/03.round-table/170412_Relaunch/article.de.md' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170412_Relaunch/article.de.md'
+2017-06-29 11:42:34: Copy New 'ftp://80.74.135.111/moneynotlove.ch/user/pages/03.round-table/170412_Relaunch/StockSnap_9SKSSQ563Y.jpg' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170412_Relaunch/StockSnap_9SKSSQ563Y.jpg'
+2017-06-29 11:42:34: Copy Over 'ftp://80.74.135.111/moneynotlove.ch/user/pages/03.round-table/170601_RoundTable/article.de.md' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170601_RoundTable/article.de.md'
+2017-06-29 11:42:34: Copy New 'ftp://80.74.135.111/moneynotlove.ch/user/pages/03.round-table/170601_RoundTable/roundtable-04-12.jpg' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170601_RoundTable/roundtable-04-12.jpg'
+2017-06-29 11:42:34: Copy Over 'ftp://80.74.135.111/moneynotlove.ch/user/pages/03.round-table/170601_RoundTable-2/article.de.md' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170601_RoundTable-2/article.de.md'
+2017-06-29 11:42:34: == Sync Complete. Time: 00:00:01, Speed: 4.9 MB/s, OK: 12, Errors: 0
+2017-06-29 11:42:34: 

@@ -1,0 +1,37 @@
+2017-07-05 16:24:46: -- Analysis Started by User Command
+2017-07-05 16:24:46: /02.knowledge-base/kb/urheberrecht/topics.de.md: Sync will delete Folder /02.knowledge-base/kb/urheberrecht on Right because it is deleted on Left, File /02.knowledge-base/kb/urheberrecht/topics.de.md changed on Right (Vertical Conflict)
+2017-07-05 16:24:46: /02.knowledge-base/kb/urheberrecht/01.schutz: Parent folder conflict propagated down to children
+2017-07-05 16:24:46: /02.knowledge-base/kb/urheberrecht/01.schutz/default.md: Parent folder conflict propagated down to children
+2017-07-05 16:24:46: /02.knowledge-base/kb/urheberrecht/02.nutzungsrechte: Parent folder conflict propagated down to children
+2017-07-05 16:24:46: /02.knowledge-base/kb/urheberrecht/02.nutzungsrechte/default.md: Parent folder conflict propagated down to children
+2017-07-05 16:24:46: /02.knowledge-base/kb/urheberrecht/03.preis: Parent folder conflict propagated down to children
+2017-07-05 16:24:46: /02.knowledge-base/kb/urheberrecht/03.preis/default.md: Parent folder conflict propagated down to children
+2017-07-05 16:24:46: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2017-07-05 16:24:46: Changes: 20, Conflicts: 8, CopyTime: 0, FixState: 1, Errors: 0, All: 114
+2017-07-05 16:24:46: Left to Right: Copy File: 8 
+2017-07-05 16:24:46: Right to Left: Copy File: 4 
+2017-07-05 16:24:46: -- Analysis Complete. Time 00:00:00, Speed: Many files/s
+2017-07-05 16:24:46: 
+2017-07-05 16:25:50: == Sync Started by User Command
+2017-07-05 16:25:50: Delete File 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/urheberrecht/01.schutz/default.md' (User Action)
+2017-07-05 16:25:50: Delete Folder 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/urheberrecht/01.schutz' (User Action)
+2017-07-05 16:25:50: Delete File 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/urheberrecht/02.nutzungsrechte/default.md' (User Action)
+2017-07-05 16:25:50: Delete Folder 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/urheberrecht/02.nutzungsrechte' (User Action)
+2017-07-05 16:25:50: Delete File 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/urheberrecht/03.preis/default.md' (User Action)
+2017-07-05 16:25:50: Delete Folder 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/urheberrecht/03.preis' (User Action)
+2017-07-05 16:25:50: Delete File 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/urheberrecht/topics.de.md' (User Action)
+2017-07-05 16:25:50: Delete Folder 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/urheberrecht' (User Action)
+2017-07-05 16:25:50: Create Folder 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht'
+2017-07-05 16:25:50: Create Folder 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht/01.schutz'
+2017-07-05 16:25:50: Create Folder 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht/02.nutzungsrechte'
+2017-07-05 16:25:50: Create Folder 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht/03.preis'
+2017-07-05 16:25:50: Copy Over 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/01.stundenansatz/topics.md' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/02.knowledge-base/kb/01.stundenansatz/topics.md'
+2017-07-05 16:25:50: Copy Over 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/02.versicherung/topics.md' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/02.knowledge-base/kb/02.versicherung/topics.md'
+2017-07-05 16:25:50: Copy Over 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/03.buchhaltung/topics.md' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/02.knowledge-base/kb/03.buchhaltung/topics.md'
+2017-07-05 16:25:50: Copy Over 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/04.selbststaendigkeit/topics.md' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/02.knowledge-base/kb/04.selbststaendigkeit/topics.md'
+2017-07-05 16:25:50: Copy New '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/02.knowledge-base/kb/05.urheberrecht/01.schutz/default.md' -> 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht/01.schutz/default.md'
+2017-07-05 16:25:50: Copy New '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/02.knowledge-base/kb/05.urheberrecht/02.nutzungsrechte/default.md' -> 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht/02.nutzungsrechte/default.md'
+2017-07-05 16:25:50: Copy New '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/02.knowledge-base/kb/05.urheberrecht/03.preis/default.md' -> 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht/03.preis/default.md'
+2017-07-05 16:25:50: Copy New '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/02.knowledge-base/kb/05.urheberrecht/topics.md' -> 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht/topics.md'
+2017-07-05 16:25:50: == Sync Complete. Time: 00:00:00, Speed: 0.0/s, OK: 21, Errors: 0
+2017-07-05 16:25:50: 

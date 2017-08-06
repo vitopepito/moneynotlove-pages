@@ -1,0 +1,14 @@
+2017-08-06 16:03:02: -- Analysis Started by User Command
+2017-08-06 16:03:05: Changes: 6, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 121
+2017-08-06 16:03:05: Right to Left: Copy File: 6 
+2017-08-06 16:03:05: -- Analysis Complete. Time 00:00:04, Speed: 25 files/s
+2017-08-06 16:03:05: 
+2017-08-06 16:03:32: == Sync Started by User Command
+2017-08-06 16:03:32: Create Folder '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170909_RoundTable-5'
+2017-08-06 16:03:32: Create Folder '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/173108_RoundTable-4'
+2017-08-06 16:03:32: Copy New 'ftps://46.231.207.73/moneynotlove.ch/user/pages/03.round-table/170909_RoundTable-5/article.de.md' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170909_RoundTable-5/article.de.md'
+2017-08-06 16:03:35: Copy New 'ftps://46.231.207.73/moneynotlove.ch/user/pages/03.round-table/170909_RoundTable-5/bundeshaus_01-fd15876c.jpg' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170909_RoundTable-5/bundeshaus_01-fd15876c.jpg'
+2017-08-06 16:03:35: Copy New 'ftps://46.231.207.73/moneynotlove.ch/user/pages/03.round-table/173108_RoundTable-4/0501.jpg' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/173108_RoundTable-4/0501.jpg'
+2017-08-06 16:03:35: Copy New 'ftps://46.231.207.73/moneynotlove.ch/user/pages/03.round-table/173108_RoundTable-4/article.de.md' -> '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/173108_RoundTable-4/article.de.md'
+2017-08-06 16:03:35: == Sync Complete. Time: 00:00:03, Speed: 238.4 KB/s, OK: 6, Errors: 0
+2017-08-06 16:03:35: 

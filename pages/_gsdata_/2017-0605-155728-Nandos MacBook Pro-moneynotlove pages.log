@@ -1,0 +1,9 @@
+2017-06-05 15:57:28: -- Analysis Started by User Command
+2017-06-05 15:57:30: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 87
+2017-06-05 15:57:30: Left to Right: Copy File: 1 
+2017-06-05 15:57:30: -- Analysis Complete. Time 00:00:02, Speed: 43 files/s
+2017-06-05 15:57:30: 
+2017-06-05 15:57:32: == Sync Started by User Command
+2017-06-05 15:57:32: Copy Over '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/01.home/default.md' -> 'ftp://80.74.135.111/moneynotlove.ch/user/pages/01.home/default.md'
+2017-06-05 15:57:32: == Sync Complete. Time: 00:00:00, Speed: 0.0/s, OK: 1, Errors: 0
+2017-06-05 15:57:32: 

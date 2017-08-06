@@ -1,0 +1,10 @@
+2017-06-05 16:39:59: -- Analysis Started by User Command
+2017-06-05 16:40:00: Changes: 2, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 89
+2017-06-05 16:40:00: Left to Right: Copy File: 2 
+2017-06-05 16:40:00: -- Analysis Complete. Time 00:00:01, Speed: 87 files/s
+2017-06-05 16:40:00: 
+2017-06-05 16:40:09: == Sync Started by User Command
+2017-06-05 16:40:09: Create Folder 'ftp://80.74.135.111/moneynotlove.ch/user/pages/signup'
+2017-06-05 16:40:09: Copy New '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/signup/default.md' -> 'ftp://80.74.135.111/moneynotlove.ch/user/pages/signup/default.md'
+2017-06-05 16:40:09: == Sync Complete. Time: 00:00:00, Speed: 0.0/s, OK: 2, Errors: 0
+2017-06-05 16:40:09: 

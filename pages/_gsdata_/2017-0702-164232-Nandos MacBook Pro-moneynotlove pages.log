@@ -1,0 +1,16 @@
+2017-07-02 16:42:32: -- Analysis Started by User Command
+2017-07-02 16:42:33: Changes: 8, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 104
+2017-07-02 16:42:33: Left to Right: Copy File: 8 
+2017-07-02 16:42:33: -- Analysis Complete. Time 00:00:01, Speed: 97 files/s
+2017-07-02 16:42:33: 
+2017-07-02 16:43:28: == Sync Started by User Command
+2017-07-02 16:43:28: Create Folder 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht'
+2017-07-02 16:43:28: Create Folder 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht/01.schutz'
+2017-07-02 16:43:28: Create Folder 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht/02.nutzungsrechte'
+2017-07-02 16:43:28: Create Folder 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht/03.preis'
+2017-07-02 16:43:29: Copy New '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/02.knowledge-base/kb/05.urheberrecht/01.schutz/default.md' -> 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht/01.schutz/default.md'
+2017-07-02 16:43:29: Copy New '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/02.knowledge-base/kb/05.urheberrecht/02.nutzungsrechte/default.md' -> 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht/02.nutzungsrechte/default.md'
+2017-07-02 16:43:29: Copy New '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/02.knowledge-base/kb/05.urheberrecht/03.preis/default.md' -> 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht/03.preis/default.md'
+2017-07-02 16:43:29: Copy New '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/02.knowledge-base/kb/05.urheberrecht/topics.md' -> 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/05.urheberrecht/topics.md'
+2017-07-02 16:43:29: == Sync Complete. Time: 00:00:01, Speed: 7.7 KB/s, OK: 8, Errors: 0
+2017-07-02 16:43:29: 

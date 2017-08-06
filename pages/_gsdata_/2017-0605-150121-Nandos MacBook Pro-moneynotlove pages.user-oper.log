@@ -1,0 +1,9 @@
+2017-06-05 15:01:21: Comparing /Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170601_RoundTable/moneynotlove-illu.jpg to ftp://80.74.135.111/moneynotlove.ch/user/pages/03.round-table/170601_RoundTable/moneynotlove-illu.jpg
+2017-06-05 15:01:21: Compare: "-u" "/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170601_RoundTable/moneynotlove-illu.jpg" "/var/tmp/gst_1680_4.tmp"
+2017-06-05 15:01:21: ===== Done =====
+2017-06-05 15:01:21: 
+2017-06-05 15:01:45: == Sync Started by User Command
+2017-06-05 15:01:46: Copy Over '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/02.knowledge-base/kb/03.buchhaltung/03.Buchfuehrung/default.md' -> 'ftp://80.74.135.111/moneynotlove.ch/user/pages/02.knowledge-base/kb/03.buchhaltung/03.Buchfuehrung/default.md'
+2017-06-05 15:01:46: Copy Over '/Users/nandoschmidlin/Documents/Nando_Inc/2 Sites/moneynotlove.ch/build-github/pages/03.round-table/170601_RoundTable/moneynotlove-illu.jpg' -> 'ftp://80.74.135.111/moneynotlove.ch/user/pages/03.round-table/170601_RoundTable/moneynotlove-illu.jpg'
+2017-06-05 15:01:46: == Sync Complete. Time: 00:00:01, Speed: 228.1 KB/s, OK: 3, Errors: 0
+2017-06-05 15:01:46: 
